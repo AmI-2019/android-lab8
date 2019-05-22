@@ -8,3 +8,6 @@ To get started:
 2. Open Android Studio on your computer and select _Checkout project from Version Control > Git_ in the "Welcome to Android Studio" window, to clone your (forked) repository
 3. Fill the requested fields (repository URL, location on disk, ...) and press the "Clone" button
 4. Commit and push the changes you made back to GitHub, from the VCS menu in Android Studio
+
+## Solution
+The solution for all the exercises is in the [solution](../../tree/solution) branch
