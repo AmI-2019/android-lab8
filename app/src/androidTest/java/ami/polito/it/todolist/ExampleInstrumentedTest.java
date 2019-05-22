@@ -1,4 +1,4 @@
-package ami.polito.it.android_todolist;
+package ami.polito.it.todolist;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
